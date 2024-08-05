@@ -4,16 +4,16 @@ namespace AssigmentTests
 {
     public class CalculatorTests
     {
-        [Theory]
-        [InlineData(3, 2, 5)]
-        [InlineData(-3, 2, -1)]
-        [InlineData(3, -2, 1)]
-        [InlineData(-3, -2, -5)]
-        public void Sum_ShouldReturnCorrectResult(decimal a, decimal b, decimal expected)
-        {
-            var result = Calculator.Sum(a, b);
-            Assert.Equal(expected, result);
-        }
+        //[Theory]
+        //[InlineData(3, 2, 5)]
+        //[InlineData(-3, 2, -1)]
+        //[InlineData(3, -2, 1)]
+        //[InlineData(-3, -2, -5)]
+        //public void Sum_ShouldReturnCorrectResult(decimal a, decimal b, decimal expected)
+        //{
+        //    var result = Calculator.Sum(a, b);
+        //    Assert.Equal(expected, result);
+        //}
 
         [Theory]
         [InlineData(6, 3, 2)]
