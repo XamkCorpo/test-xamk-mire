@@ -1,5 +1,4 @@
-﻿[14:47] Reijonen Tuomas
-using System;
+﻿using System;
 
 using System.Collections.Generic;
 
