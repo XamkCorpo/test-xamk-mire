@@ -13,14 +13,14 @@ namespace OOP_Assigment1
         public static decimal Sum(decimal a, decimal b)
         {
             //Assigment 1: Return the sum of a and b.
-            throw new NotImplementedException();
+            return a + b;
         }
 
         public static decimal Divide(decimal a, decimal b)
         {
             //Assigment 2: Return the result of dividing a by b.
             //Note no need to check for divide by zero, but you can do if you want
-            throw new NotImplementedException();
+            return a / b;
         }
 
         public static decimal Multiply(decimal a, decimal b)
