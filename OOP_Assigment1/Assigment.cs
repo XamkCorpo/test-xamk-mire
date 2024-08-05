@@ -240,7 +240,4 @@ namespace OOP_Assigment1
     }
 
 }
-
-Decimal Struct (System)
-Represents a decimal floating-point number. 
  
